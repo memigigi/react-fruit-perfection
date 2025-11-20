@@ -24,7 +24,7 @@ Wanneer dit klaar is, kun je de applicatie starten met behulp van:
 npm run dev
 ```
 
-Open http://localhost:5173/ om de pagina in de browser te bekijken. Begin met het maken van wijzigingen in `src/App.jsx`.
+Open  om de pagina in de browser te bekijken. Begin met het maken van wijzigingen in `src/App.jsx`.
 
 ## Tussenstappen bekijken
 De tutorial werkt in stapjes. Na elke stap kun je de bijbehorende branch bekijken om te zien hoe de
